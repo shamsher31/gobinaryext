@@ -1,5 +1,5 @@
 # gobinext
-Binary Extension for Go
+List of binary file extensions for Go
 
 # How to install
 <pre>
