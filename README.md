@@ -1,4 +1,7 @@
 # gobinext
+
+[![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/shamsher31/gobinext)
+
 List of binary file extensions for Go
 
 ### How to install
